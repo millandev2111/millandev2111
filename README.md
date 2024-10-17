@@ -2,7 +2,7 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px">, I'm Andres Cardona</h1>
 <p align="center">  
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=01C38D&center=true&vCenter=true&width=435&lines=+Computer+engineering;+UX%2FUI+Design;+Web+developer;Technology+lover" alt="Typing SVG" /></a>
-<h3 align="center">I'm a 20 years old, frontend developer with experience in UX/UI design, using design tools and modern technologies. Currently in my seventh semester of Computer Engineering, I am expanding my backend knowledge to build full-stack solutions optimized for performance and scalability.</h3>
+<h4 align="center">I'm a 20 years old, frontend developer with experience in UX/UI design, using design tools and modern technologies. Currently in my seventh semester of Computer Engineering, I am expanding my backend knowledge to build full-stack solutions optimized for performance and scalability.</h4>
 
 <!-- About me -->
 <h1> 💫 About Me: </h1>
